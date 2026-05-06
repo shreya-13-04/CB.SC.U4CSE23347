@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 // ── Config ────────────────────────────────────────────────────
-const BASE_URL = process.env.EVALUATION_API_BASE || 'http://20.207.122.281/evaluation-service';
+const BASE_URL = process.env.EVALUATION_API_BASE || 'http://20.207.122.201/evaluation-service';
 const ACCESS_CODE = process.env.AUTH_TOKEN || 'PTBMmQ';
 
 // Try multiple auth header formats
