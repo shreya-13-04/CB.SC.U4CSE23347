@@ -40,7 +40,7 @@ cd ../request-logging-middleware && npm install
 
 ### 2. Environment Configuration
 Each service contains a `.env` file for configuration. Key variables include:
-*   `AUTH_TOKEN`: Your evaluation access code.
+*   `AUTH_TOKEN`: access code.
 *   `EVALUATION_API_BASE`: The base URL for the external evaluation server.
 *   `JWT_SECRET`: Used for the notification service authentication.
 
