@@ -64,7 +64,4 @@ npm start
 
 ---
 
-##  Design & Scaling (Stage 6)
-The detailed technical analysis for the notification system (Database indexing, Scaling, and Queue-based redesign) can be found in the [Notification System Design](./campus-notification-service/notification_system_design.md) file.
 
----
